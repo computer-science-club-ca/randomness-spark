@@ -35,11 +35,17 @@ Pour en savoir plus, lisez https://www.random.org/randomness/
 #Téléchargement
 Vous pouvez téléchargez l'archives .zip du code ou bien utilisez git : $ git clone https://github.com/computer-science-club-ca/randomness-spark.git
 
-## Installez Java 8 (JDK): http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html 
+## Installez Java 8 (JDK)
 
-## Installez Eclipse Oxygen 4.7 IDE for Java EE Developers : https://www.eclipse.org/downloads/eclipse-packages/
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html 
 
-## Installez Gradle : https://gradle.org/install/
+## Installez Eclipse Oxygen 4.7 IDE for Java EE Developers 
+
+https://www.eclipse.org/downloads/eclipse-packages/
+
+## Installez Gradle 
+
+https://gradle.org/install/
 
 ## Installez Hadoop
 
