@@ -38,7 +38,8 @@ Les Arts | Varie
 Pour en savoir plus, lisez https://www.random.org/randomness/
 
 
-#Téléchargement
+# Téléchargement
+
 Vous pouvez téléchargez l'archives .zip du code ou bien utilisez git : $ git clone https://github.com/computer-science-club-ca/randomness-spark.git
 
 ## Installez Java 8 (JDK)
