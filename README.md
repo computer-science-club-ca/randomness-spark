@@ -22,11 +22,17 @@ En comparaison avec les PRNG, les TRNG extraient l'aléatoire des phénomènes p
 Les TRNG conviennent à peu près à l'ensemble des applications pour lesquelles les PRNG ne conviennent pas, comme le cryptage des données, les jeux et les jeux de hasard. Inversement, la faible efficacité et la nature non déterministe des TRNG les rendent moins adaptés aux applications de simulation et de modélisation, qui nécessitent souvent plus de données qu'il n'est possible de générer avec un TRNG. Le tableau suivant résume quel type de générateur est le mieux approprié par type d’applications.
 
 Application | Générateur le plus approprié
+
 Loteries et tirages | TRNG
+
 Jeux et jeux de hasard | TRNG
+
 Échantillonnage aléatoire | TRNG
+
 Simulation et modélisation | PRNG
+
 Sécurité (par exemple, génération de clés de chiffrement de données) | TRNG
+
 Les Arts | Varie
 
 Pour en savoir plus, lisez https://www.random.org/randomness/
